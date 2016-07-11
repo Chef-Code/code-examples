@@ -5,11 +5,11 @@ Also included will be semantic explanation and documentation in regards to the s
 
 | Language      | Repository                                                                                        | This Document                                 |
 |---------------|---------------------------------------------------------------------------------------------------|-----------------------------------------------|
-|`C#`           | [C# Folder](https://github.com/Chef-Code/code-examples/tree/master/code-examples/C%23)            | [C# Document][C Sharp Section]                     |
-|`C++`          | [C++ Folder](https://github.com/Chef-Code/code-examples/tree/master/code-examples/C%2B%2B)        | [C++ Document][C++ Section]                   |
-|`CSS`          | [CSS Folder](https://github.com/Chef-Code/code-examples/tree/master/code-examples/CSS)            | [CSS Document][CSS Section]                   |
-|`JavaScript`   | [JS Folder](https://github.com/Chef-Code/code-examples/tree/master/code-examples/JavaScript)      | [JavaScript Document][JavaScript Section]     |
-|`JS_Libraries` | [JS Libraries](https://github.com/Chef-Code/code-examples/tree/master/code-examples/JS_Libraries) | [JS Libraries Document][JS Libraries Section] |
+|`C#`           | [C# Folder](https://github.com/Chef-Code/code-examples/tree/master/code-examples/C%23)            | [C# Document][#c-sharp-section]                     |
+|`C++`          | [C++ Folder](https://github.com/Chef-Code/code-examples/tree/master/code-examples/C%2B%2B)        | [C++ Document][#c-section]                   |
+|`CSS`          | [CSS Folder](https://github.com/Chef-Code/code-examples/tree/master/code-examples/CSS)            | [CSS Document][#css-section]                   |
+|`JavaScript`   | [JS Folder](https://github.com/Chef-Code/code-examples/tree/master/code-examples/JavaScript)      | [JavaScript Document][#javascript-section]     |
+|`JS_Libraries` | [JS Libraries](https://github.com/Chef-Code/code-examples/tree/master/code-examples/JS_Libraries) | [JS Libraries Document][#js-libraries-section] |
 
 ###C Sharp Section
 ```csharp
