@@ -5,11 +5,11 @@ Also included will be semantic explanation and documentation in regards to the s
 
 | Language      | Repository                      | This Document                                 |
 |---------------|---------------------------------|-----------------------------------------------|
-|`C#`           | [C# Folder](../code-examples/blob/code-examples/C#)   | [C# Document][C# Section]         |
-|`C++`          | [C++ Folder](../blob/code-examples/C++)            | [C++ Document][C++ Section]                   |
-|`CSS`          | [CSS Folder](../blob/code-examples/CSS)            | [CSS Document][CSS Section]                   |
-|`JavaScript`   | [JS Folder](../blob/code-examples/JavaScript)      | [JavaScript Document][JavaScript Section]     |
-|`JS_Libraries` | [JS Libraries](../blob/code-examples/JS_Libraries) | [JS Libraries Document][JS Libraries Section] |
+|`C#`           | [C# Folder](..//blob/C#)   | [C# Document][C# Section]         |
+|`C++`          | [C++ Folder](../blob/C++)            | [C++ Document][C++ Section]                   |
+|`CSS`          | [CSS Folder](../blob/CSS)            | [CSS Document][CSS Section]                   |
+|`JavaScript`   | [JS Folder](../blob/JavaScript)      | [JavaScript Document][JavaScript Section]     |
+|`JS_Libraries` | [JS Libraries](../blob/JS_Libraries) | [JS Libraries Document][JS Libraries Section] |
 
 C# Section
 ```csharp
