@@ -5,7 +5,7 @@ Also included will be semantic explanation and documentation in regards to the s
 
 | Language      | Repository                                                                                        | This Document                                 |
 |---------------|---------------------------------------------------------------------------------------------------|-----------------------------------------------|
-|`C#`           | [C# Folder](https://github.com/Chef-Code/code-examples/tree/master/code-examples/C%23)            | [C# Document](#c-sharp-section)                     |
+|`C#`           | [C# Folder](C%23)            | [C# Document](#c-sharp-section)                     |
 |`C++`          | [C++ Folder](https://github.com/Chef-Code/code-examples/tree/master/code-examples/C%2B%2B)        | [C++ Document](#c-section)                   |
 |`CSS`          | [CSS Folder](https://github.com/Chef-Code/code-examples/tree/master/code-examples/CSS)            | [CSS Document](#css-section)                   |
 |`JavaScript`   | [JS Folder](https://github.com/Chef-Code/code-examples/tree/master/code-examples/JavaScript)      | [JavaScript Document](#javascript-section)     |
@@ -14,7 +14,7 @@ Also included will be semantic explanation and documentation in regards to the s
 ###C Sharp Section
 ```csharp
 var a = "C# string variable";
-v.ToString();
+a.ToString();
 ```
 
 ###C++ Section
@@ -37,7 +37,7 @@ let thereBeLight = (function () {
     let allPowers = ["earth", "rain", "wind", "fire"];
 
     function getPowers(...allPowers) {
-        for (let p of allPowers) me.Power += p; //debug this, might be out of scope
+        for (let aP of allPowers) me.Power += aP; //debug this, might be out of scope
     }
 })();
 ```
