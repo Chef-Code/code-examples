@@ -5,7 +5,7 @@ Also included will be semantic explanation and documentation in regards to the s
 
 | Language      | Repository                                                                                        | This Document                                 |
 |---------------|---------------------------------------------------------------------------------------------------|-----------------------------------------------|
-|`C#`           | [C# Folder](C%23)            | [C# Document](#c-sharp-section)                     |
+|`C#`           | [C# Folder](../../C%23)            | [C# Document](#c-sharp-section)                     |
 |`C++`          | [C++ Folder](https://github.com/Chef-Code/code-examples/tree/master/code-examples/C%2B%2B)        | [C++ Document](#c-section)                   |
 |`CSS`          | [CSS Folder](https://github.com/Chef-Code/code-examples/tree/master/code-examples/CSS)            | [CSS Document](#css-section)                   |
 |`JavaScript`   | [JS Folder](https://github.com/Chef-Code/code-examples/tree/master/code-examples/JavaScript)      | [JavaScript Document](#javascript-section)     |
