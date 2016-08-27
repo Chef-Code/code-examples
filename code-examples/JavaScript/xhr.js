@@ -6,13 +6,13 @@ var readyStateArray = ["UNSENT", "OPENED", "HEADERS_RECEIVED", "LOADING", "DONE"
 var IE_readyState = ["READYSTATE_UNINITIALIZED", "READYSTATE_LOADING", "READYSTATE_LOADED", "READYSTATE_INTERACTIVE","READYSTATE_COMPLETE"];
 
 var responseTypeValues = ["DOMString","ArrayBuffer","Blob","Document","json","text","moz-blob","moz-chunked-text","moz-chunked-arraybuffer","ms-stream"];
-function ajaxCall(method, url, response_type, async) {
+function ajaxCall(method, url, response_type) {
 	 
 	let data = {};
 	
 	let xhr = new XMLHttpRequest();
 		
-	xhr.open(method, url, async);
+	xhr.open(method, url, true);
 
 		  xhr.responseType = response_type; 
 		  
